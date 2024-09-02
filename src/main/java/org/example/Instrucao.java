@@ -1,2 +1,6 @@
-package org.example;public interface Instrucao {
+package org.example;
+
+public interface Instrucao {
+
+    void executar();
 }
